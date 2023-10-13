@@ -1,0 +1,19 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    border: 2px solid black;
+    height: 25px;
+    width: 65px;
+}
+
+p{
+    text-align: center;
+    padding: auto;
+    margin: 0 auto;
+    color: red;
+    
+}
